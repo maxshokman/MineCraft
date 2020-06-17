@@ -520,6 +520,7 @@ BackupSystem:
     # Windows only: MySQL installation path
     MysqlWindowsPath: 'C:\Program Files\MySQL\MySQL Server 5.1\'
 # Converter settings: see https://github.com/AuthMe/AuthMeReloaded/wiki/Converters
+# test comment. Ignore it.
 Converter:
     Rakamak:
         # Rakamak file name
